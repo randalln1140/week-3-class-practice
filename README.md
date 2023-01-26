@@ -1,1 +1,3 @@
-# week-3-class-practice
+# Week 3 In Class Practice
+
+Please make tiny tex work pleeease
